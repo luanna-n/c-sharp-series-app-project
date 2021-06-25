@@ -1,0 +1,16 @@
+C:\workspace\PROJETOS-DIO\c-sharp\AppSeries\bin\Debug\net5.0\AppSeries.exe
+C:\workspace\PROJETOS-DIO\c-sharp\AppSeries\bin\Debug\net5.0\AppSeries.deps.json
+C:\workspace\PROJETOS-DIO\c-sharp\AppSeries\bin\Debug\net5.0\AppSeries.runtimeconfig.json
+C:\workspace\PROJETOS-DIO\c-sharp\AppSeries\bin\Debug\net5.0\AppSeries.runtimeconfig.dev.json
+C:\workspace\PROJETOS-DIO\c-sharp\AppSeries\bin\Debug\net5.0\AppSeries.dll
+C:\workspace\PROJETOS-DIO\c-sharp\AppSeries\bin\Debug\net5.0\ref\AppSeries.dll
+C:\workspace\PROJETOS-DIO\c-sharp\AppSeries\bin\Debug\net5.0\AppSeries.pdb
+C:\workspace\PROJETOS-DIO\c-sharp\AppSeries\obj\Debug\net5.0\AppSeries.csproj.AssemblyReference.cache
+C:\workspace\PROJETOS-DIO\c-sharp\AppSeries\obj\Debug\net5.0\AppSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\PROJETOS-DIO\c-sharp\AppSeries\obj\Debug\net5.0\AppSeries.AssemblyInfoInputs.cache
+C:\workspace\PROJETOS-DIO\c-sharp\AppSeries\obj\Debug\net5.0\AppSeries.AssemblyInfo.cs
+C:\workspace\PROJETOS-DIO\c-sharp\AppSeries\obj\Debug\net5.0\AppSeries.csproj.CoreCompileInputs.cache
+C:\workspace\PROJETOS-DIO\c-sharp\AppSeries\obj\Debug\net5.0\AppSeries.dll
+C:\workspace\PROJETOS-DIO\c-sharp\AppSeries\obj\Debug\net5.0\ref\AppSeries.dll
+C:\workspace\PROJETOS-DIO\c-sharp\AppSeries\obj\Debug\net5.0\AppSeries.pdb
+C:\workspace\PROJETOS-DIO\c-sharp\AppSeries\obj\Debug\net5.0\AppSeries.genruntimeconfig.cache
